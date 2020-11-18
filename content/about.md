@@ -5,7 +5,7 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Aayush Chaturvedi"
 +++
 
-```
+```json
 [
   {
     "name": "Aayush Chaturvedi",
@@ -37,7 +37,7 @@ aliases = ["about-us","about-hugo","contact"]
       }
     ],
     "interests": [
-      "data science & ai",
+      "data science",
       "philosophy",
       "books",
       "gyming",
