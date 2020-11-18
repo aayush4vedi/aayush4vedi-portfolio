@@ -154,11 +154,11 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "about/"
+    url        = "https://aayush4vedi.netlify.app/about/"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "posts/"
+    url        = "https://aayush4vedi.netlify.app/posts/"
   [[menu.main]]
     identifier = "books"
     name       = "Books"
