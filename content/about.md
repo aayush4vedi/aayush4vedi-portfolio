@@ -10,33 +10,43 @@ aliases = ["about-us","about-hugo","contact"]
   {
     "name": "Aayush Chaturvedi",
     "job" : "Software Engineer",
-    "current_employer" : "Flipkart",
+    "employers" : {
+      "Flipkart" : "18 May 2020 - present",
+      "Razorpay" : "10 July 2019 - 18 May 2020",
+      "internships": {
+          "Nestaway" : "04 Jun 2018 - 04 Nov 2018"
+      }
+    },
     "location": "Bangalore, India",
-    "languages": [
-      "JavaScript",
-      "Python",
-      "Golang",
-      "C/C++"
+    "techstack" : [
+      {
+        "languages": [
+          "JavaScript",
+          "Python",
+          "Golang",
+          "Java",
+          "C/C++"
+        ]
+      },{
+        "frameworks": [
+          "node.js",
+          "react.js",
+          "flask",
+          "spring"
+        ]
+      }
     ],
-    "frameworks": [
-      "node.js",
-      "react.js",
-      "flask"
-    ]
-    "hobbies": [
-      "reading",
-      "poetry",
+    "interests": [
+      "data science & ai",
+      "philosophy",
+      "books",
       "gyming",
       "gaming"
     ],
-    "previously_worked_at":[
-      "Razorpay",
-      "Nestaway"
-    ]
     "education": [
       {
         "BITS Pilani": "Bachelors of Engineering",
-        "Delhi Public School": "Senior School-PCM"
+        "Delhi Public School": "Senior Secondary School"
       }
     ]
   }
